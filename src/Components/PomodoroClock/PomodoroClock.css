@@ -1,0 +1,91 @@
+.Pomo-Main-Container{
+    background: #1e555c;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    max-width: 100% !important;
+    /* height: calc(100vh - 56px); */
+    min-height: 100vh;
+    /* min-height: fit-content; */
+    /* max-height: auto; */
+}
+.Pomo-Center-Container{
+    /* max-width: 100% !important; */
+    margin: 40px;
+    background-color: #07071c;
+    border-radius: 8px;
+    /* height:fit-content; */
+    padding-bottom: 18px;
+}
+.Heading-Color{
+    color: #FFFFFF !important;
+}
+.Heading4-width{
+    display: inline-block;
+    margin: 0px 10px 0px 10px;
+    color: #FFFFFF;
+}
+.Session-Col{
+    margin-top: 50px;
+    border: 2px solid #ffffff;
+    margin: 30px auto 30px auto;
+    width: 270px;
+    height: 160px;
+    border-radius: 20px;
+    position: relative;
+}
+.Session-Heading{
+    color: #FFFFFF !important;
+    font-size: 50px;
+}
+.Session-Button{
+    display: inline-block;
+    margin-right: 10px;
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    font-weight: 700 !important;
+}
+.Fa-Square-Plus{
+    height: 35px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.footer-followme{
+    background: #ffffff;
+    border: #FFFFFF;
+    border-radius: 50%;
+    color: #2276ff;
+    font-size: 18px;
+    height: 36px;
+    padding: 2.75px;
+    width: 36px;
+    
+}
+.follow{
+    /* align-items: center; */
+    display: flex;
+    justify-content: space-between;
+}
+.footer {
+    background: #1e555c;
+    max-width: 100% !important;
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* justify-content: center; */
+}
+
+.font-Icon {
+font-size: 20px;
+color: #FFFFFF;
+}
+a{
+    color: #FFFFFF !important;
+    text-decoration: none !important;
+}
+a:hover{
+    color: #0a58ca !important;
+}
+p{
+    color: #FFFFFF;
+}
