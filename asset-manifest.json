@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/PomodoroClock-ReactApp/static/css/main.f6ba3985.css",
-    "main.js": "/PomodoroClock-ReactApp/static/js/main.9afddd94.js",
-    "static/js/787.30cd3fe9.chunk.js": "/PomodoroClock-ReactApp/static/js/787.30cd3fe9.chunk.js",
-    "static/media/instagram.svg": "/PomodoroClock-ReactApp/static/media/instagram.ea97f30da684359a8ea3e1bee509ed63.svg",
-    "static/media/github.svg": "/PomodoroClock-ReactApp/static/media/github.f7e3ade96512be4618b75af62358f5d2.svg",
-    "static/media/linkedin.svg": "/PomodoroClock-ReactApp/static/media/linkedin.eb342e4dfc24b60c46c8e14d96223ca4.svg",
-    "index.html": "/PomodoroClock-ReactApp/index.html",
-    "static/media/fb.svg": "/PomodoroClock-ReactApp/static/media/fb.359265ba000a616e171a0d5fd1ff323e.svg",
-    "main.f6ba3985.css.map": "/PomodoroClock-ReactApp/static/css/main.f6ba3985.css.map",
-    "main.9afddd94.js.map": "/PomodoroClock-ReactApp/static/js/main.9afddd94.js.map",
-    "787.30cd3fe9.chunk.js.map": "/PomodoroClock-ReactApp/static/js/787.30cd3fe9.chunk.js.map"
+    "main.css": "/React-PomodoroClock/static/css/main.f6ba3985.css",
+    "main.js": "/React-PomodoroClock/static/js/main.3514154f.js",
+    "static/js/787.30cd3fe9.chunk.js": "/React-PomodoroClock/static/js/787.30cd3fe9.chunk.js",
+    "static/media/instagram.svg": "/React-PomodoroClock/static/media/instagram.ea97f30da684359a8ea3e1bee509ed63.svg",
+    "static/media/github.svg": "/React-PomodoroClock/static/media/github.f7e3ade96512be4618b75af62358f5d2.svg",
+    "static/media/linkedin.svg": "/React-PomodoroClock/static/media/linkedin.eb342e4dfc24b60c46c8e14d96223ca4.svg",
+    "index.html": "/React-PomodoroClock/index.html",
+    "static/media/fb.svg": "/React-PomodoroClock/static/media/fb.359265ba000a616e171a0d5fd1ff323e.svg",
+    "main.f6ba3985.css.map": "/React-PomodoroClock/static/css/main.f6ba3985.css.map",
+    "main.3514154f.js.map": "/React-PomodoroClock/static/js/main.3514154f.js.map",
+    "787.30cd3fe9.chunk.js.map": "/React-PomodoroClock/static/js/787.30cd3fe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6ba3985.css",
-    "static/js/main.9afddd94.js"
+    "static/js/main.3514154f.js"
   ]
 }
