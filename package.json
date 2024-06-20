@@ -2,7 +2,7 @@
   "name": "pomodoro-clock",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://arslanarshad105.github.io/PomodoroClock-ReactApp/",
+  "homepage": "https://arslanarshad105.github.io/React-PomodoroClock/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",

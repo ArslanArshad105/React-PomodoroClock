@@ -3,13 +3,11 @@ import "../PomodoroClock/PomodoroClock.css";
 import { Container, Row, Col } from "react-bootstrap";
 import BreakSessionLength from "./BreakSessionLength";
 import Session from "./Session";
-import Footer from "./Footer";
+// import Footer from "./Footer";
 
 const PomodoroClock = () => {
   const [time, setTime] = useState(25);
   const [breakLength, setBreakLength] = useState(5);
-
-  // const setTimeValue = (value) => setTime(value);
 
   return (
     <>
@@ -45,7 +43,7 @@ const PomodoroClock = () => {
           </Row>
         </Container>
       </Container>
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 };
