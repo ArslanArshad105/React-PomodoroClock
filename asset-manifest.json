@@ -1,19 +1,15 @@
 {
   "files": {
-    "main.css": "/React-PomodoroClock/static/css/main.f6ba3985.css",
-    "main.js": "/React-PomodoroClock/static/js/main.3514154f.js",
+    "main.css": "/React-PomodoroClock/static/css/main.d6498ff6.css",
+    "main.js": "/React-PomodoroClock/static/js/main.00033e1a.js",
     "static/js/787.30cd3fe9.chunk.js": "/React-PomodoroClock/static/js/787.30cd3fe9.chunk.js",
-    "static/media/instagram.svg": "/React-PomodoroClock/static/media/instagram.ea97f30da684359a8ea3e1bee509ed63.svg",
-    "static/media/github.svg": "/React-PomodoroClock/static/media/github.f7e3ade96512be4618b75af62358f5d2.svg",
-    "static/media/linkedin.svg": "/React-PomodoroClock/static/media/linkedin.eb342e4dfc24b60c46c8e14d96223ca4.svg",
     "index.html": "/React-PomodoroClock/index.html",
-    "static/media/fb.svg": "/React-PomodoroClock/static/media/fb.359265ba000a616e171a0d5fd1ff323e.svg",
-    "main.f6ba3985.css.map": "/React-PomodoroClock/static/css/main.f6ba3985.css.map",
-    "main.3514154f.js.map": "/React-PomodoroClock/static/js/main.3514154f.js.map",
+    "main.d6498ff6.css.map": "/React-PomodoroClock/static/css/main.d6498ff6.css.map",
+    "main.00033e1a.js.map": "/React-PomodoroClock/static/js/main.00033e1a.js.map",
     "787.30cd3fe9.chunk.js.map": "/React-PomodoroClock/static/js/787.30cd3fe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6ba3985.css",
-    "static/js/main.3514154f.js"
+    "static/css/main.d6498ff6.css",
+    "static/js/main.00033e1a.js"
   ]
 }
